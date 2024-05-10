@@ -4,15 +4,15 @@ Welcome to my Rust portfolio showcase! This repository contains several small Ru
 
 ## Basics
 - [Hello World](./basics/hello_world/hello_world.rs) - A simple Hello World in Rust.
-- Guessing Game
-- Calculator
-- FizzBuzz
-- Fibonacci Sequence
-- Prime Number Checker
-- Temperature Converter
-- Factorial Calculator
-- Palindrome Checker
-- File Reader/Writer
+- [Guessing Game](./basics/guessing-game/src/main.rs) - A game where the computer selects a random number and the user has to guess it.  
+- [Calculator](./basics/calculator/src/main.rs) - A basic calculator program that performs arithmetic operations (addition, subtraction, multiplication, division) based on user input.  
+- [FizzBuzz](./basics/fizzbuzz/src/main.rs) - A program that prints numbers from 1 to 100, but for multiples of three, it prints "Fizz" instead of the number, and for the multiples of five, it prints "Buzz". For numbers that are multiples of both three and five, it prints "FizzBuzz".  
+- [Fibonacci Sequence](./basics/fibonacci/src/main.rs) - A program that generates the Fibonacci sequence up to a certain number of terms specified by the user.   
+- [Prime Number Checker](./basics/isPrime/src/main.rs) - A program that checks whether a given number is prime or not.  
+- [Temperature Converter](./basics/temperature/src/main.rs) - A program that converts temperatures between Celsius and Fahrenheit.  
+- [Factorial Calculator](./basics/factorialCalculator/src/main.rs) - A program that calculates the factorial of a given number.  
+- [Palindrome Checker](./basics/isPalindrome/src/main.rs) - A program that checks whether a given string is a palindrome or not.  
+- [File Reader/Writer](./basics/fileReaderWriter/src/main.rs) - A program that reads from a file, manipulates the data, and writes the results to another file.  
 
 ## More interesting ones
 
