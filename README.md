@@ -3,8 +3,16 @@
 Welcome to my Rust portfolio showcase! This repository contains several small Rust programs that demonstrate my proficiency in the language. Feel free to explore each program below:
 
 ## Basics
-- [Hello World](./basics/hello_world.rs) - A simple Hello World in Rust.
-
+- [Hello World](./basics/hello_world/hello_world.rs) - A simple Hello World in Rust.
+- Guessing Game
+- Calculator
+- FizzBuzz
+- Fibonacci Sequence
+- Prime Number Checker
+- Temperature Converter
+- Factorial Calculator
+- Palindrome Checker
+- File Reader/Writer
 
 ## More interesting ones
 
