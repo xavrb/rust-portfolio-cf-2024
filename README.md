@@ -22,11 +22,7 @@ Welcome to my Rust portfolio showcase! This repository contains several small Ru
 
 ## More interesting ones
 
-- [Program 1: Example Program](./program1.rs) - Description of what Program 1 does.
-- [Program 2: Another Example Program](./program2.rs) - Description of what Program 2 does.
-- [Program 3: Yet Another Example Program](./program3.rs) - Description of what Program 3 does.
-- [Program 4: One More Example Program](./program4.rs) - Description of what Program 4 does.
-- [Program 5: Final Example Program](./program5.rs) - Description of what Program 5 does.
+- [Log Analysis](./complex/log-analysis/scr/main.rs) -  a command-line tool for processing and analyzing large datasets. For instance, you could create a tool for parsing log files, analyzing data, and generating reports.
 
 ## Getting Started
 
