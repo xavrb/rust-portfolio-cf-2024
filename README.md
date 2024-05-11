@@ -22,7 +22,7 @@ Welcome to my Rust portfolio showcase! This repository contains several small Ru
 
 ## More interesting ones
 
-- [Log Analysis](./complex/log-analysis/scr/main.rs) -  a command-line tool for processing and analyzing large datasets. For instance, you could create a tool for parsing log files, analyzing data, and generating reports.
+- [Log Analysis](./complex/log-analysis/src/main.rs) -  a command-line tool for processing and analyzing large datasets. For instance, you could create a tool for parsing log files, analyzing data, and generating reports.
 
 ## Getting Started
 
