@@ -3,6 +3,10 @@
 ## About me
 As a seasoned Agile DevOps/CloudOps Engineer, I specialize in cloud environments, focusing on ensuring system resilience using Kubernetes, Helm 3, Terraform, and monitoring tools like Prometheus and Grafana. Fluent in English, Spanish, and advancing in German, I excel not only technically but also in communication and interpersonal abilities.
 
+## Rust Courses
+I've completed the following courses on Rust I'd like to share:
+* [Course 1](udemy.com)  
+* [Course2 ](coursera.org)
 
 ## About this repo 
 
