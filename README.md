@@ -5,8 +5,8 @@ As a seasoned Agile DevOps/CloudOps Engineer, I specialize in cloud environments
 
 ## Rust Courses
 I've completed the following courses on Rust I'd like to share:
-* [Course 1](https://www.udemy.com/certificate/UC-3efa5390-2a30-4fe6-8a6d-7a4582c6818e/)  
-* [Course2 ](coursera.org)
+* [Course 1: Udemy](https://www.udemy.com/certificate/UC-3efa5390-2a30-4fe6-8a6d-7a4582c6818e/)  
+* [Course 2: Coursera ](https://www.coursera.org/account/accomplishments/verify/5JL49TX47QGS)
 
 ## About this repo 
 
