@@ -1,5 +1,10 @@
 # Rust Portfolio Showcase
 
+## About me
+As a seasoned Agile DevOps/CloudOps Engineer, I specialize in cloud environments, focusing on ensuring system resilience using Kubernetes, Helm 3, Terraform, and monitoring tools like Prometheus and Grafana. Fluent in English, Spanish, and advancing in German, I excel not only technically but also in communication and interpersonal abilities.
+
+
+
 Welcome to my Rust portfolio showcase! This repository contains several small Rust programs that demonstrate my proficiency in the language. Feel free to explore each program below:
 
 ## Basics
