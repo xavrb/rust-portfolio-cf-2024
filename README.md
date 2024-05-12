@@ -13,7 +13,7 @@ I've completed the following courses on Rust I'd like to share:
 Welcome to my Rust portfolio showcase! This repository contains several small Rust programs that demonstrate my proficiency in the language. Feel free to explore each program below:
 
 ## Basics
-- [Hello World](./basics/hello-world/hello_world.rs) - A simple Hello World in Rust.
+- [Hello World](./basics/hello-world/hello_world.rs) ✅ - A simple Hello World in Rust.
 - [Guessing Game](./basics/guessing-game/src/main.rs) ✅ - A game where the computer selects a random number and the user has to guess it.  
 - [Calculator](./basics/calculator/src/main.rs) - A basic calculator program that performs arithmetic operations (addition, subtraction, multiplication, division) based on user input.  
 - [FizzBuzz](./basics/fizzbuzz/src/main.rs) - A program that prints numbers from 1 to 100, but for multiples of three, it prints "Fizz" instead of the number, and for the multiples of five, it prints "Buzz". For numbers that are multiples of both three and five, it prints "FizzBuzz".  
