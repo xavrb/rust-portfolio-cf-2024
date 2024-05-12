@@ -39,5 +39,9 @@ fn main() {
     println!("Sum of numbers is: {}", mysum(a,b));
     println!("Substraction of numbers is: {}", mysubst(a,b));
     println!("Multiplication of numbers is: {}", mymult(a,b));
-    println!("Division of numbers is: {}", mydiv(a,b));
+    if b!=0.0 {
+        println!("Division of numbers is: {}", mydiv(a,b));
+    } else{
+        println!("Not performing division");
+    }
 }
