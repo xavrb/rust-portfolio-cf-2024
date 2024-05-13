@@ -37,3 +37,11 @@ Once Rust is installed, you can clone this repository and navigate to the progra
 ```bash
 rustc program1.rs
 ./program1
+```
+
+
+Or you can also run:
+
+```bash
+cargo run 
+```
