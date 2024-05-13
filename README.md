@@ -18,7 +18,7 @@ Welcome to my Rust portfolio showcase! This repository contains several small Ru
 - [Calculator](./basics/calculator/src/main.rs) ✅ - A basic calculator program that performs arithmetic operations (addition, subtraction, multiplication, division) based on user input.  
 - [FizzBuzz](./basics/fizzbuzz/src/main.rs) ✅ - A program that prints numbers from 1 to 100, but for multiples of three, it prints "Fizz" instead of the number, and for the multiples of five, it prints "Buzz". For numbers that are multiples of both three and five, it prints "FizzBuzz".  
 - [Fibonacci Sequence](./basics/fibonacci/src/main.rs) ✅ - A program that generates the Fibonacci sequence up to a certain number of terms specified by the user.   
-- [Prime Number Checker](./basics/is-prime/src/main.rs) - A program that checks whether a given number is prime or not.  
+- [Prime Number Checker](./basics/is-prime/src/main.rs) ✅ - A program that checks whether a given number is prime or not.  
 - [Temperature Converter](./basics/temperature-converter/src/main.rs) - A program that converts temperatures between Celsius and Fahrenheit.  
 - [Factorial Calculator](./basics/factorial-calculator/src/main.rs) - A program that calculates the factorial of a given number.  
 - [Palindrome Checker](./basics/is-palindrome/src/main.rs) - A program that checks whether a given string is a palindrome or not.  
