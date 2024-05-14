@@ -20,7 +20,7 @@ Welcome to my Rust portfolio showcase! This repository contains several small Ru
 - [Fibonacci Sequence](./basics/fibonacci/src/main.rs) ✅ - A program that generates the Fibonacci sequence up to a certain number of terms specified by the user.   
 - [Prime Number Checker](./basics/is-prime/src/main.rs) ✅ - A program that checks whether a given number is prime or not.  
 - [Temperature Converter](./basics/temperature-converter/src/main.rs) ✅ - A program that converts temperatures between Celsius and Fahrenheit.  
-- [Factorial Calculator](./basics/factorial-calculator/src/main.rs) - A program that calculates the factorial of a given number.  
+- [Factorial Calculator](./basics/factorial-calculator/src/main.rs) ✅ - A program that calculates the factorial of a given number.  
 - [Palindrome Checker](./basics/is-palindrome/src/main.rs) - A program that checks whether a given string is a palindrome or not.  
 - [File Reader/Writer](./basics/file-reader-writer/src/main.rs) - A program that reads from a file, manipulates the data, and writes the results to another file.  
 
